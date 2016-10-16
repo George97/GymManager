@@ -1,0 +1,34 @@
+D:\!epam\GymManager.Repositories\GymManager.Repositories\bin\Debug\GymManager.Repositories.dll
+D:\!epam\GymManager.Repositories\GymManager.Repositories\bin\Debug\GymManager.Repositories.pdb
+D:\!epam\GymManager.Repositories\GymManager.Repositories\bin\Debug\GymManager.Entities.dll
+D:\!epam\GymManager.Repositories\GymManager.Repositories\bin\Debug\GymManager.Entities.pdb
+D:\!epam\GymManager.Repositories\GymManager.Repositories\obj\Debug\GymManager.Repositories.dll
+D:\!epam\GymManager.Repositories\GymManager.Repositories\obj\Debug\GymManager.Repositories.pdb
+D:\!epam\GymManager.Repositories\GymManager.Repositories\obj\Debug\GymManager.Repositories.csprojResolveAssemblyReference.cache
+D:\!!5 КУРС\GymManager_final\GymManager.Repositories\bin\Debug\GymManager.Repositories.dll
+D:\!!5 КУРС\GymManager_final\GymManager.Repositories\bin\Debug\GymManager.Repositories.pdb
+D:\!!5 КУРС\GymManager_final\GymManager.Repositories\bin\Debug\GymManager.Entities.pdb
+D:\!!5 КУРС\GymManager_final\GymManager.Repositories\obj\Debug\GymManager.Repositories.csprojResolveAssemblyReference.cache
+D:\!!5 КУРС\GymManager_final\GymManager.Repositories\obj\Debug\GymManager.Repositories.dll
+D:\!!5 КУРС\GymManager_final\GymManager.Repositories\obj\Debug\GymManager.Repositories.pdb
+D:\!!5 КУРС\GymManager\GymManager.Repositories\bin\Debug\GymManager.Repositories.dll
+D:\!!5 КУРС\GymManager\GymManager.Repositories\bin\Debug\GymManager.Repositories.pdb
+D:\!!5 КУРС\GymManager\GymManager.Repositories\obj\Debug\GymManager.Repositories.dll
+D:\!!5 КУРС\GymManager\GymManager.Repositories\obj\Debug\GymManager.Repositories.pdb
+D:\!!5 КУРС\GymManager\GymManager.Repositories\obj\Debug\GymManager.Repositories.csprojResolveAssemblyReference.cache
+D:\!!5 КУРС\GymManager\GymManager.Repositories\bin\Debug\GymManager.Entities.dll
+D:\!!5 КУРС\GymManager\GymManager.Repositories\bin\Debug\GymManager.Entities.pdb
+C:\Users\user\Desktop\GymManager\GymManager.Repositories\bin\Debug\GymManager.Repositories.dll
+C:\Users\user\Desktop\GymManager\GymManager.Repositories\bin\Debug\GymManager.Repositories.pdb
+C:\Users\user\Desktop\GymManager\GymManager.Repositories\bin\Debug\GymManager.Entities.dll
+C:\Users\user\Desktop\GymManager\GymManager.Repositories\bin\Debug\GymManager.Entities.pdb
+C:\Users\user\Desktop\GymManager\GymManager.Repositories\obj\Debug\GymManager.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\GymManager\GymManager.Repositories\obj\Debug\GymManager.Repositories.dll
+C:\Users\user\Desktop\GymManager\GymManager.Repositories\obj\Debug\GymManager.Repositories.pdb
+D:\!epam\Selectors\GymManager\GymManager.Repositories\bin\Debug\GymManager.Repositories.dll
+D:\!epam\Selectors\GymManager\GymManager.Repositories\bin\Debug\GymManager.Repositories.pdb
+D:\!epam\Selectors\GymManager\GymManager.Repositories\bin\Debug\GymManager.Entities.dll
+D:\!epam\Selectors\GymManager\GymManager.Repositories\bin\Debug\GymManager.Entities.pdb
+D:\!epam\Selectors\GymManager\GymManager.Repositories\obj\Debug\GymManager.Repositories.csprojResolveAssemblyReference.cache
+D:\!epam\Selectors\GymManager\GymManager.Repositories\obj\Debug\GymManager.Repositories.dll
+D:\!epam\Selectors\GymManager\GymManager.Repositories\obj\Debug\GymManager.Repositories.pdb

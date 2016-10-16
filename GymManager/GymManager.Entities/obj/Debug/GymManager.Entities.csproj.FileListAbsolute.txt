@@ -1,0 +1,19 @@
+D:\!epam\GymManager.Entities\GymManager.Entities\bin\Debug\GymManager.Entities.dll
+D:\!epam\GymManager.Entities\GymManager.Entities\bin\Debug\GymManager.Entities.pdb
+D:\!epam\GymManager.Entities\GymManager.Entities\obj\Debug\GymManager.Entities.dll
+D:\!epam\GymManager.Entities\GymManager.Entities\obj\Debug\GymManager.Entities.pdb
+D:\!epam\GymManager.Entities\GymManager.Entities\obj\Debug\GymManager.Entities.csprojResolveAssemblyReference.cache
+D:\!!5 КУРС\GymManager_final\GymManager.Entities\bin\Debug\GymManager.Entities.dll
+D:\!!5 КУРС\GymManager_final\GymManager.Entities\bin\Debug\GymManager.Entities.pdb
+D:\!!5 КУРС\GymManager_final\GymManager.Entities\obj\Debug\GymManager.Entities.csprojResolveAssemblyReference.cache
+D:\!!5 КУРС\GymManager_final\GymManager.Entities\obj\Debug\GymManager.Entities.dll
+D:\!!5 КУРС\GymManager_final\GymManager.Entities\obj\Debug\GymManager.Entities.pdb
+D:\!!5 КУРС\GymManager\GymManager.Entities\bin\Debug\GymManager.Entities.dll
+D:\!!5 КУРС\GymManager\GymManager.Entities\bin\Debug\GymManager.Entities.pdb
+D:\!!5 КУРС\GymManager\GymManager.Entities\obj\Debug\GymManager.Entities.dll
+D:\!!5 КУРС\GymManager\GymManager.Entities\obj\Debug\GymManager.Entities.pdb
+D:\!!5 КУРС\GymManager\GymManager.Entities\obj\Debug\GymManager.Entities.csprojResolveAssemblyReference.cache
+D:\!epam\Selectors\GymManager\GymManager.Entities\bin\Debug\GymManager.Entities.dll
+D:\!epam\Selectors\GymManager\GymManager.Entities\bin\Debug\GymManager.Entities.pdb
+D:\!epam\Selectors\GymManager\GymManager.Entities\obj\Debug\GymManager.Entities.dll
+D:\!epam\Selectors\GymManager\GymManager.Entities\obj\Debug\GymManager.Entities.pdb

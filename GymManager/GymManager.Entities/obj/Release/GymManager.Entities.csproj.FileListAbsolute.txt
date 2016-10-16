@@ -1,0 +1,4 @@
+D:\!!5 КУРС\GymManager\GymManager.Entities\bin\Release\GymManager.Entities.dll
+D:\!!5 КУРС\GymManager\GymManager.Entities\bin\Release\GymManager.Entities.pdb
+D:\!!5 КУРС\GymManager\GymManager.Entities\obj\Release\GymManager.Entities.dll
+D:\!!5 КУРС\GymManager\GymManager.Entities\obj\Release\GymManager.Entities.pdb

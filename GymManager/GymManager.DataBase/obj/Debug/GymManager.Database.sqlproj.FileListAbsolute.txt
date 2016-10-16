@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\GymManager\GymManager.Database\bin\Debug\GymManager.Database.dacpac
+C:\Users\user\Desktop\GymManager\GymManager.Database\bin\Debug\GymManager.Database.dll
+C:\Users\user\Desktop\GymManager\GymManager.Database\bin\Debug\GymManager.Database.pdb
+C:\Users\user\Desktop\GymManager\GymManager.Database\obj\Debug\GymManager.Database.dll
+C:\Users\user\Desktop\GymManager\GymManager.Database\obj\Debug\GymManager.Database.pdb

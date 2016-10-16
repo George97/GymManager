@@ -1,0 +1,7 @@
+D:\!!5 КУРС\GymManager\GymManager.Repositories\bin\Release\GymManager.Repositories.dll
+D:\!!5 КУРС\GymManager\GymManager.Repositories\bin\Release\GymManager.Repositories.pdb
+D:\!!5 КУРС\GymManager\GymManager.Repositories\bin\Release\GymManager.Entities.dll
+D:\!!5 КУРС\GymManager\GymManager.Repositories\bin\Release\GymManager.Entities.pdb
+D:\!!5 КУРС\GymManager\GymManager.Repositories\obj\Release\GymManager.Repositories.csprojResolveAssemblyReference.cache
+D:\!!5 КУРС\GymManager\GymManager.Repositories\obj\Release\GymManager.Repositories.dll
+D:\!!5 КУРС\GymManager\GymManager.Repositories\obj\Release\GymManager.Repositories.pdb

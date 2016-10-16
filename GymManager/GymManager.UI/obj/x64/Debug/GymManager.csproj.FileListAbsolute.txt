@@ -1,0 +1,23 @@
+D:\!!5 КУРС\GymManager\GymManager.UI\bin\x64\Debug\GymManager.exe.config
+C:\Users\user\Desktop\GymManager\GymManager.UI\bin\x64\Debug\GymManager.exe.config
+C:\Users\user\Desktop\GymManager\GymManager.UI\bin\x64\Debug\GymManager.exe
+C:\Users\user\Desktop\GymManager\GymManager.UI\bin\x64\Debug\GymManager.pdb
+C:\Users\user\Desktop\GymManager\GymManager.UI\bin\x64\Debug\GymManager.Entities.dll
+C:\Users\user\Desktop\GymManager\GymManager.UI\bin\x64\Debug\GymManager.Repositories.dll
+C:\Users\user\Desktop\GymManager\GymManager.UI\bin\x64\Debug\GymManager.Entities.pdb
+C:\Users\user\Desktop\GymManager\GymManager.UI\bin\x64\Debug\GymManager.Repositories.pdb
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.frmAddAdmin.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.frmAddCustomer.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.frmAddVisit.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.frmAdmin.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.frmCard.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.frmCustomer.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.LoginForm.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.frmSendMail.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.frmVisit.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.frmGymManager.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.Properties.Resources.resources
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.exe
+C:\Users\user\Desktop\GymManager\GymManager.UI\obj\x64\Debug\GymManager.pdb

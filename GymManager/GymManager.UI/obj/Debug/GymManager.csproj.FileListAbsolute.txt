@@ -1,0 +1,67 @@
+D:\!epam\GymManager\GymManager\bin\Debug\GymManager.exe.config
+D:\!epam\GymManager\GymManager\bin\Debug\GymManager.exe
+D:\!epam\GymManager\GymManager\bin\Debug\GymManager.pdb
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.csprojResolveAssemblyReference.cache
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.Properties.Resources.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.csproj.GenerateResource.Cache
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.exe
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.pdb
+D:\!epam\GymManager\GymManager\bin\Debug\GymManager.Entities.dll
+D:\!epam\GymManager\GymManager\bin\Debug\GymManager.Repositories.dll
+D:\!epam\GymManager\GymManager\bin\Debug\GymManager.Entities.pdb
+D:\!epam\GymManager\GymManager\bin\Debug\GymManager.Repositories.pdb
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.LoginForm.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.frmAddAdmin.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.frmAddCustomer.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.frmAddVisit.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.frmAdmin.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.frmCard.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.frmCustomer.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.frmGymManager.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.frmSendMail.resources
+D:\!epam\GymManager\GymManager\obj\Debug\GymManager.frmVisit.resources
+D:\!!5 КУРС\GymManager\GymManager_1\GymManager.UI\bin\Debug\GymManager.exe.config
+D:\!!5 КУРС\GymManager\GymManager_1\GymManager.UI\obj\Debug\GymManager.exe
+D:\!!5 КУРС\GymManager\GymManager_1\GymManager.UI\obj\Debug\GymManager.pdb
+D:\!!5 КУРС\GymManager_final\GymManager.UI\bin\Debug\GymManager.exe.config
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.exe
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.pdb
+D:\!!5 КУРС\GymManager_final\GymManager.UI\bin\Debug\GymManager.exe
+D:\!!5 КУРС\GymManager_final\GymManager.UI\bin\Debug\GymManager.pdb
+D:\!!5 КУРС\GymManager_final\GymManager.UI\bin\Debug\GymManager.Entities.pdb
+D:\!!5 КУРС\GymManager_final\GymManager.UI\bin\Debug\GymManager.Repositories.pdb
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.csprojResolveAssemblyReference.cache
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.frmAddAdmin.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.frmAddCustomer.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.frmAddVisit.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.frmAdmin.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.frmCard.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.frmCustomer.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.LoginForm.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.frmSendMail.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.frmVisit.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.frmGymManager.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.Properties.Resources.resources
+D:\!!5 КУРС\GymManager_final\GymManager.UI\obj\Debug\GymManager.csproj.GenerateResource.Cache
+D:\!!5 КУРС\GymManager\GymManager.UI\bin\Debug\GymManager.exe.config
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.exe
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.pdb
+D:\!!5 КУРС\GymManager\GymManager.UI\bin\Debug\GymManager.exe
+D:\!!5 КУРС\GymManager\GymManager.UI\bin\Debug\GymManager.pdb
+D:\!!5 КУРС\GymManager\GymManager.UI\bin\Debug\GymManager.Entities.pdb
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.csprojResolveAssemblyReference.cache
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.frmAddAdmin.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.frmAddCustomer.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.frmAddVisit.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.frmAdmin.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.frmCard.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.frmCustomer.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.LoginForm.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.frmSendMail.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.frmVisit.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.frmGymManager.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.Properties.Resources.resources
+D:\!!5 КУРС\GymManager\GymManager.UI\obj\Debug\GymManager.csproj.GenerateResource.Cache
+D:\!!5 КУРС\GymManager\GymManager.UI\bin\Debug\GymManager.Entities.dll
+D:\!!5 КУРС\GymManager\GymManager.UI\bin\Debug\GymManager.Repositories.dll
+D:\!!5 КУРС\GymManager\GymManager.UI\bin\Debug\GymManager.Repositories.pdb
