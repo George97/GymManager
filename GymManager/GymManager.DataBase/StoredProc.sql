@@ -1,6 +1,8 @@
 USE GymManager;
 
 GO
+
+-- Reviewer YM: In my opinion using transaction here made code complicated without any improvements  
 CREATE PROCEDURE spGetExpirationDate
 @CardNumber INT
 AS
@@ -267,6 +269,7 @@ END CATCH
 	RETURN @Result
 	
 GO
+-- Reviewer YM: In my opinion using transaction here made code complicated without any improvements  
 CREATE PROCEDURE spGetVisitsByKeyNumber
 @KeyNumber INT
 AS
@@ -283,6 +286,7 @@ BEGIN CATCH
 END CATCH
 
 GO
+-- Reviewer YM: In my opinion using transaction here made code complicated without any improvements  
 CREATE PROCEDURE spGetVisitsByDateVisit
 @DateVisit VARCHAR(10)
 AS
@@ -323,6 +327,7 @@ END CATCH
 	RETURN @Result
 
 GO
+-- Reviewer YM: In my opinion using transaction here made code complicated without any improvements  
 CREATE PROCEDURE spGetBalance
 @CardNumber INT
 AS
