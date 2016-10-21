@@ -31,6 +31,8 @@ namespace GymManager.Repositories
                     {
                         while (reader.Read())
                         {
+                            // Reviewer YM: In my opinion here would be better to create CustomerParser class 
+                            // that return Customer model  
                             customerList.Add(new Customer
                             {
                              Id = reader["Id"] is DBNull 
