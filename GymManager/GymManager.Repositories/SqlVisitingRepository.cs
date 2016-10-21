@@ -32,6 +32,8 @@ namespace GymManager.Repositories
                         {
                             visitsList.Add(new Visiting
                             {
+                            // Reviewer YM: In my opinion here would be better to create VisitingParser class 
+                            // that return Visiting model  
                                 CardNumber = reader["CardNUmber"] is DBNull 
                                 ? 0 
                                 : Convert.ToInt32(reader["CardNumber"], 
