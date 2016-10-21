@@ -64,6 +64,8 @@ namespace GymManager.Repositories
                         {
                             adminList.Add(new Administrator
                             {
+                            // Reviewer YM: In my opinion here would be better to create AdminParser class 
+                            // that return Admin model  
                                 Id = reader["Id"] is DBNull
                                     ? 0
                                     : Convert.ToInt32(reader["Id"],
