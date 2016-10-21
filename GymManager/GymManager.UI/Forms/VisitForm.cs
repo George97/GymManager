@@ -27,7 +27,7 @@ namespace GymManager
             dgvVisits.DataSource = _visitingRepository.SelectAllVisits();
             dgvVisits.Refresh();
         }
-
+      // Reviewer YM: Bad code readability. It`s like a god function that do everything.
         private void btnOk_Click(object sender, EventArgs e)
         {
             switch (clbOperations.SelectedIndex)
