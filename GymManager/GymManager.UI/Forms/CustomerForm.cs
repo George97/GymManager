@@ -30,7 +30,7 @@ namespace GymManager
         {
             this.Close();
         }
-
+       // Reviewer YM: Bad code readability. It`s like a god function that do evrything.
         private void btnOk_Click(object sender, EventArgs e)
         {
             switch (clbOperations.SelectedIndex)
