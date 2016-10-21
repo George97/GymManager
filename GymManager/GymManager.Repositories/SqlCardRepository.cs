@@ -30,6 +30,8 @@ namespace GymManager.Repositories
                     {
                         while (reader.Read())
                         {
+                            // Reviewer YM: In my opinion here would be better to create CardParser class 
+                            // that return Card model  
                             cardList.Add(new Card
                             {
                             CardNumber = reader["CardNumber"] is DBNull 
